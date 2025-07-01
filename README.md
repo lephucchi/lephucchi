@@ -2,9 +2,7 @@
 
 ## 🚀 About Me
 
-I'm passionate **Data Engineer** and **Back-end Developer** based in **Ho Chi Minh City, Viet Nam** 🇻🇳. I have a strong foundation in software engineering and data systems, with expertise in designing databases, building scalable ETL/ELT pipelines, and developing maintainable backend systems that are modular, testable, and built with scalability in mind. My focus is on optimizing data workflows and backend architectures for performance and scalability. I'm also deeply interested in applying Machine Learning and Deep Learning techniques to solve real-world problems, particularly in financial forecasting and big data processing. My ultimate goal is to bridge software engineering with data science to create impactful, intelligent systems.
-
-
+I'm passionate **Data Engineer** and **Back-end Developer** based in **Ho Chi Minh City, Viet Nam** 🇻🇳. I have a strong foundation in programming and data systems. I'm also interested in applying Machine Learning and Deep Learning techniques to solve real-world problems, particularly in financial forecasting and big data processing.
 ---
 
 ## 🛠️ Tech Stack
