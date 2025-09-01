@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm passionate **Data Engineer** and **Back-end Developer** based in **Ho Chi Minh City, Viet Nam** 🇻🇳. I have a strong foundation in programming and data systems. I'm also interested in applying Machine Learning and Deep Learning techniques to solve real-world problems, particularly in financial forecasting and big data processing.
+Just a coder exploring data, the web, and a little bit of music.
 ---
 
 ## 🛠️ Tech Stack
@@ -38,7 +38,7 @@ I'm passionate **Data Engineer** and **Back-end Developer** based in **Ho Chi Mi
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lê-phúc-chí-dataengineer-backend-developer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/le-phuc-chi/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:phucchile25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/lephucchi)
 
@@ -48,7 +48,6 @@ I'm passionate **Data Engineer** and **Back-end Developer** based in **Ho Chi Mi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lephucchi&layout=compact&theme=radical&hide_border=false" width="35%" />
 
 <h2>📂 Featured Projects</h2>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -60,18 +59,18 @@ I'm passionate **Data Engineer** and **Back-end Developer** based in **Ho Chi Mi
     </td>
     <td width="50%" valign="top">
       <div style="border: 2px solid #87cefa; border-radius: 12px; padding: 20px;">
-        <h3>🧪 <a href="https://github.com/lephucchi/MyPortfolio">Portfolio Website</a></h3>
-        <p>A modern full-stack personal portfolio built with React and NestJS, featuring a blog, project showcase, and user interaction (likes, reactions).</p>
-        <strong>Tech:</strong> ReactJS, NestJS, PostgreSQL, Docker
+        <h3>🌌 <a href="https://github.com/lephucchi/aurelinth">Aurelinth Trading Simulator</a></h3>
+        <p>A full-stack trading simulator with real-time market data, designed for learning and practicing trading strategies with an interactive interface.</p>
+        <strong>Tech:</strong> React, TypeScript, Node.js, PostgreSQL (Supabase), WebSocket, TwelveData API, Docker, AWS-EC2
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <div style="border: 2px solid #87cefa; border-radius: 12px; padding: 20px;">
-        <h3>🔗 <a href="https://github.com/lephucchi/Blockchain-Dapp">Blockchain Voting DApp</a></h3>
-        <p>A decentralized application (DApp) for a simple voting system built on the Ethereum blockchain, demonstrating smart contract interaction.</p>
-        <strong>Tech:</strong> Solidity, Web3.js, MetaMask
+        <h3>🚗 <a href="https://github.com/lephucchi/Rent-Car-Dapp">Rent Car DApp</a></h3>
+        <p>A decentralized car rental platform enabling owners, renters, and inspectors to interact via Ethereum smart contracts, ensuring trust and transparency.</p>
+        <strong>Tech:</strong> Node.js, Solidity, React, TypeScript, MetaMask
       </div>
     </td>
     <td width="50%" valign="top">
@@ -83,5 +82,6 @@ I'm passionate **Data Engineer** and **Back-end Developer** based in **Ho Chi Mi
     </td>
   </tr>
 </table>
+
 
 > "Code build art"
