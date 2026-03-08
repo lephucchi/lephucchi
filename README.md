@@ -6,33 +6,49 @@ Data engineer interested in **data platforms, lakehouse architectures, and AI-po
 I enjoy building systems that combine **data pipelines, cloud infrastructure, and intelligent applications**.
 
 ---
-
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+### Data Platform & Engineering
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Lakehouse](https://img.shields.io/badge/-Lakehouse%20Architecture-0052CC?style=flat-square)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Athena](https://img.shields.io/badge/-AWS%20Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Axum](https://img.shields.io/badge/-Axum-000000?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+---
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/-Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+---
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure Kubernetes Service](https://img.shields.io/badge/-AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat-square)
 
+---
+
+### Software & Analytics
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square)
+![WebSocket](https://img.shields.io/badge/-WebSocket-000000?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ---
 
 ## 📫 Contact Me
